@@ -1,4 +1,4 @@
-import { FeedbackSection, FeedbackTitle } from './Feedback.styled';
+import { FeedbackSection, FeedbackTitle } from './Section.style';
 export const Section = ({ title, children }) => {
   return (
     <FeedbackSection>

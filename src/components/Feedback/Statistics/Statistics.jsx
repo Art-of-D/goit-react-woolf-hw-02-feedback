@@ -1,4 +1,4 @@
-import { FeedbackList, FeedbackListElements } from './Feedback.styled';
+import { FeedbackList, FeedbackListElements } from './Statistics.styled';
 export const Statistics = ({
   good,
   neutral,
